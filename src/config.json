@@ -1,0 +1,8 @@
+{
+  "sources": ["@wsj.com", "@nytimes.com", "@superhuman.com"],
+  "profile": {"stock market": 0.4, "technology": 0.3, "healthcare": 0.3},
+  "triggers": [{"keyword": "AI regulation", "email": "mashres@gmail.com"}],
+  "delivery_email": "mashres@gmail.com",
+  "daily_limit": 10,
+  "schedule_time": "07:00"
+}
